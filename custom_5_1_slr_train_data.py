@@ -23,7 +23,7 @@ from sklearn.metrics import mean_squared_error
 # %matplotlib inline
 
 # Loading the auto.csv data
-df = pd.read_csv("sample_data/Auto.csv")
+df = pd.read_csv("Auto.csv")
 print(df.head())
 
 # Initialization of the plots
